@@ -83,6 +83,7 @@ export default function RootLayout({
       className={`${manrope.variable} ${unbounded.variable} bg-background`}
     >
       <head>
+        <meta name="yandex-verification" content="977456cf9cd59f90" />
         <title>{pageTitle}</title>
         <meta name="description" content={pageDescription} />
         <link rel="canonical" href="https://la25casino.vercel.app/" />
